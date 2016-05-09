@@ -1,2 +1,2 @@
 # TestRepo
-This is a test app for UCO Proj
+This is a test app for github pages
